@@ -41,7 +41,7 @@ Draw the coordinates found in the first exercise on a map.
 
 #### Fallback:
 
-If exercise 1 did not work, continue with [data/exercise1.txt](data/exercise2.txt)
+If exercise 1 did not work, continue with [data/exercise2.txt](data/exercise2.txt)
 
 ### 3. Districts
 
@@ -58,7 +58,8 @@ Color the districts by the number of data points inside.
 
 #### Fallback:
 
-If exercise 3 did not work, continue with [data/exercise1.txt](data/exercise2.txt)
+If exercise 3 did not work, continue with [data/exercise2.txt](data/exercise2.txt)
+
 ## License
 
 (c) 2018 Spiced Academy. Personal use only.
