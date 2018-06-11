@@ -1,5 +1,6 @@
 """
-
+1. install flask
+2. FLASK_APP=server.py flask run
 """
 from flask import Flask
 import folium
